@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    overflow: hidden;
+    min-height: 80px;
+    background-color: #1C201F;
+    border-bottom: 7px solid greenyellow;
+    
+}
+
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+    
+}
+
+.logo {
+    float: left;
+    width: 30%;
+    
+}
+
+.logo h1{
+    padding-top: 5px;
+    color: white;
+    
+}
+.logo p{
+    padding-left: 35px;
+    color: white;
+    
+}
+
+.navbar{
+    float: right;
+    width: 55%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 26px;
+    background-color: #444444;
+    
+    
+}
+
+.navbar ul{
+    list-style: none;
+    
+}
+.navbar ul li{
+    float: left;
+   
+    
+}
+.navbar ul li a{
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 100;
+    padding: 14px 35px;
+    display: block;
+    color: white;
+    border-right: 1px solid black;
+    
+}
+
+.navbar ul li:last-child a{
+    border-right: none;
+    
+}
+
+.navbar ul li a:hover{
+    color: greenyellow;
+    
+}
+.slider {
+    width: 100%;
+    background-color: #444444;
+    min-height: 350px;
+    
+}
+
+.slider_img {
+    width: 35%;
+    float: left;
+    
+}
+
+.slider_img img{
+    width: 100%;
+    height: 327px;
+    margin: 11px 14%;
+    border: 8px solid grey;
+    box-sizing: border-box;
+    
+}
+
+.slider_content{
+    float: right;
+    width: 55%;
+    min-height: 320px;
+    
+}
+.slider_content_wrapper {
+    width: 95%;
+    margin: 15px 1%;
+    padding: 36px 1%;
+    
+}
+
+.slider_content_wrapper h1{
+    color: white;
+    
+}
+.slider_content_wrapper p{
+    padding-top: 30px;
+    
+}
+
+.btn_cls{
+    margin-top: 34px;
+    width: 18%;
+    min-height: 40px;
+    border-radius: 8px;
+    border: none;
+    font-size: 21px;
+    background-color: #ADFF2F;
+    font-weight: 300;
+    
+}
+
+.content {
+    min-height: 700px;
+    width: 100%;
+    
+}
+
+.left_content {
+    min-height: 600px;
+    width: 55%;
+    float: left;
+    margin-top: 30px;
+    
+}
+
+.left_content h1{
+    margin-bottom: 17px;
+    
+}
+
+.left_content p{
+    
+}
+
+.left_content ul{
+    margin-left: 61px;
+}
+
+.left_content ul li{
+    
+}
+
+.smal_p{
+    padding-left: 54px;
+    
+}
+.right_content {
+    min-height: 600px;
+    width: 30%;
+    float: right;
+    margin-top: 30px;
+    
+}
+
+.right_content_title{
+    min-height: 50px;
+    width: 100%;
+    background-color: #3D3D3D;
+    
+    
+}
+
+.right_content_title h1{
+    color: white;
+    padding: 6px 7%;
+    
+    
+}
+.news_content {
+    min-height: 166px;
+    width: 100%;
+    background-color: #DFDFDF;
+    margin-top: 1px;
+    
+}
+
+.nwes_img{
+    float: left;
+    min-height: 110px;
+    width: 30%;
+}
+
+.nwes_img img{
+    width: 100%;
+    height: 100px;
+    margin: 20px 6%;
+}
+.news{
+    float: right;
+    min-height: 105px;
+    width: 65%;
+    margin: 20px 1%;
+    
+}
+.footer {
+}
+
+
+
+
+
+
+
+
+
+
+
+
